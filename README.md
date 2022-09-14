@@ -3,7 +3,7 @@
 ESP32 based wireless temperature sensor that sends data to a Firebase RTDB via a network. Temperature data is then accessed through a React based web app from any remote location.
 
 ESP32 connected to DHT11 temperature and humidity sensor. Simple circuit but more sensors can be added later.
-![alt text](https://github.com/usmank11/KeyPad-PCB/blob/main/PCBfront.png](https://github.com/usmank11/IoT-Temp-Sensor/blob/main/Sensor.jpeg)
+![alt text](https://github.com/usmank11/IoT-Temp-Sensor/blob/main/Sensor.jpeg)
 
 Web app to view the temperature data remotely.
 ![alt text](https://github.com/usmank11/IoT-Temp-Sensor/blob/main/webapp.png)
