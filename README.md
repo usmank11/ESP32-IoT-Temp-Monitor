@@ -1,4 +1,4 @@
-# IoT Temp Sensor
+# ESP32 IoT Temp Sensor
 
 ESP32 based wireless temperature sensor that sends data to a Firebase RTDB via a network. Temperature data is then accessed through a React based web app from any remote location. Motivation behind this project was to learn how to interface an ESP32 with cloud hosted databases for IoT applications.
 
